@@ -1,0 +1,6 @@
+{
+  "name": "FinCalc - Financial Calculators Suite",
+  "description": "Comprehensive suite of financial calculators including mortgage, loan, investment, compound interest, auto loan, retirement, and amortization with interactive charts and schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
